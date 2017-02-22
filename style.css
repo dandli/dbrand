@@ -1,0 +1,68 @@
+.ui.massive.borderless.inverted.secondary.topmenu.menu {
+  box-shadow: none;
+  border: none;
+  margin: 20px;
+}
+
+.middle-body {
+  background: url(https://dbrand.com/sites/all/themes/dbrand_v3/img/feature-articles/tripattern1dark.jpg);
+  background-size: cover;
+  height: 750px;
+}
+
+.body-content {
+  background: url('https://dbrand.com/sites/default/files/images/shop/featured-devices/mastery.jpg');
+  background-size: cover;
+  height: 700px;
+}
+
+.ui.three.row.grid {
+  color: #fb0;
+}
+
+.world-shipping {
+  background: url('https://dbrand.com/sites/default/files/images/features/bg/shipping-bg.jpg') center center;
+  background-size: cover;
+  height: 130px;
+}
+
+.ship-text {
+  color: #fb0;
+  padding-top: 35px;
+  font-size: 45px;
+}
+
+.ui.large.borderless.inverted.secondary.middlemenu.menu {
+  background-color: black;
+  color: #afafb2;
+  box-shadow: none;
+  border: none;
+}
+
+.ui.container.middle {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.ui.inverted.three.column.grid.container {
+  color: white;
+  font-size: 20px;
+  background-color: #1a1a1a;
+  padding-top: 20px;
+  padding-bottom: 100px;
+}
+
+.ui.list {
+  color: #fb0;
+  font-size: 15px;
+}
+
+body {
+  background-color: black;
+}
+
+.ui.container.footer {
+  color: #484848;
+  margin: 40px;
+  font-size: 15px;
+}
